@@ -1,5 +1,5 @@
 let url = window.location.href
-let swDirectory = "/PWA-U2-P5-PGM"
+let swDirectory = "/PWA-U2-P5-PGM/"
 
 if(navigator.serviceWorker){
 
